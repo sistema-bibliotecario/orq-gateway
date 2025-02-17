@@ -8,7 +8,7 @@ public class OrqGatewayApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrqGatewayApplication.class, args);
-		System.out.println("Orq Gateway initializer successful");
+		System.out.println("orq-gateway iniciado correctamente");
 	}
 
 }
